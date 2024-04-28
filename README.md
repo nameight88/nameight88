@@ -1,7 +1,7 @@
 <li>
-- 👋 Hi, I’m namdavid
-- 🌱 I’m Java full stack developer learning
-- 📫 How to reach me david0108@naver.com
+  <ul>- 👋 Hi, I’m namdavid</ul>
+  <ul>- 🌱 I’m Java full stack developer learning</ul>
+  <ul>- 📫 How to reach me david0108@naver.com</ul>
   </li>
 <li>
 <a href="https://www.notion.so/a8704ed93ab44bdd9bced532e9d17647">
