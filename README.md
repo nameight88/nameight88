@@ -1,5 +1,4 @@
-<li>
-  <ul>- 👋 Hi, I’m namdavid</ul>
+<li> <h3>👋 Hi, I’m namdavid</h3>
   <ul>- 🌱 I’m Java full stack developer learning</ul>
   <ul>- 📫 How to reach me david0108@naver.com</ul>
   </li>
