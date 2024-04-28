@@ -1,6 +1,8 @@
+<li>
 - 👋 Hi, I’m namdavid
 - 🌱 I’m Java full stack developer learning
 - 📫 How to reach me david0108@naver.com
+  </li>
 <li>
 <a href="https://www.notion.so/a8704ed93ab44bdd9bced532e9d17647">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="max-width: 75%;">
